@@ -1,8 +1,6 @@
-# Domine Pytest — Exemplos do Curso
+# Domine Pytest
 
-Este repositório contém os **arquivos e exemplos práticos** do curso **“Domine Pytest”** (Udemy), organizados por seções, cobrindo desde o básico até tópicos avançados como **fixtures**, **parametrização**, **marcadores**, **exceções**, **plugins**, **testes de integração** e **CI/CD com GitHub Actions**.
-
-> Link do curso: https://www.udemy.com/course/domine-pytest/
+Este repositório contém os **arquivos e exemplos práticos** do curso **“Domine Pytest”** , organizados por seções, cobrindo desde o básico até tópicos avançados como **fixtures**, **parametrização**, **marcadores**, **exceções**, **plugins**, **testes de integração** e **CI/CD com GitHub Actions**.
 
 ---
 
